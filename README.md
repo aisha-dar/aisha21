@@ -3,7 +3,7 @@
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/>  
 
 ### 👩‍💻 Welcome to my GitHub!
-I’m **[Your Name]**, a **Data Science & Artificial Intelligence student** passionate about learning **Python** and improving my skills through practical projects.
+I’m **[Aisha]**, a **Data Science & Artificial Intelligence student** passionate about learning **Python** and improving my skills through practical projects.
 
 </div>
 
