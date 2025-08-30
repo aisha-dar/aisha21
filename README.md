@@ -47,6 +47,6 @@ I’m **[Aisha]**, a **Data Science & Artificial Intelligence student** passiona
 
 ### ✨ Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/USERNAME)  
-[![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:USERNAME@gmail.com)
+[![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](maishadarweesh33E@gmail.com)
 
 ---
