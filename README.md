@@ -38,8 +38,8 @@ I’m **[Aisha]**, a **Data Science & Artificial Intelligence student** passiona
 ### 📊 GitHub Stats
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight" width="45%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight" width="45%"/>
+<img src="https://github-readme-stats.vercel.app/api?Aisha21=Aisha21&show_icons=true&theme=tokyonight" width="45%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?Aisha21=USERNAME&layout=compact&theme=tokyonight" width="45%"/>
 
 </div>
 
